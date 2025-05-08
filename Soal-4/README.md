@@ -155,7 +155,6 @@ Berikut adalah langkah-langkah yang saya lakukan untuk menyelesaikan Soal 4:
       ```
       git add .
       git commit -m "Initial commit for Soal 4"
-      git remote add origin https://github.com/fikriandrrhm19/intro-site.git
       git push -u origin main
       ```
 
@@ -174,3 +173,5 @@ Berikut adalah langkah-langkah yang saya lakukan untuk menyelesaikan Soal 4:
 Saya telah menulis artikel di Medium dengan topik "Integrasi React, Vite, dan Tailwind dalam Satu Website" sebagai bagian dari proyek ini. Artikel tersebut membahas langkah-langkah development website menggunakan teknologi tersebut, termasuk implementasi yang diterapkan pada Soal 4.
 
 [Baca artikelnya di Medium](https://medium.com/@fikri.andrhm/integrasi-react-vite-dan-tailwind-dalam-satu-website-ae51dac832d6).
+
+Live Demo: [https://fikriandra.my.id](https://fikriandra.my.id)  

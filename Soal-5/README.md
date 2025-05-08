@@ -136,10 +136,10 @@ Saya telah melakukan beberapa langkah untuk menyelesaikan Soal 5 ini:
 Aplikasi ini memiliki fitur berikut:
 
 1. Home Page:
-    - **Header**: Pencarian Pokémon dengan batas 12 karakter dan opsi sorting.
-    - **PokemonGrid**: Tampilan grid atau list Pokémon dengan animasi loading.
-    - **Pagination**: Navigasi halaman dengan efek hover.
-    - **ViewModeToggle**: Pilihan antara mode single dan double column.
+    - **Header**. Pencarian Pokémon dengan batas 12 karakter dan opsi sorting.
+    - **PokemonGrid**. Tampilan grid atau list Pokémon dengan animasi loading.
+    - **Pagination**. Navigasi halaman dengan efek hover.
+    - **ViewModeToggle**. Pilihan antara mode single dan double column.
 
 2. Detail Page:
     - Informasi detail Pokémon termasuk gambar, statistik, dan tipe.
@@ -172,3 +172,5 @@ Berikut adalah tampilan aplikasi setelah dijalankan:
 Saya telah menulis artikel di Medium berjudul "Bye Class, Hello Hooks! Belajar React Lebih Clean dan Modular" sebagai bagian dari proyek ini. Artikel tersebut menjelaskan cara menggunakan `React Hooks` untuk membuat kode yang lebih clean dan modular, yang diterapkan dalam development aplikasi ini.
 
 [Baca artikelnya di Medium](https://medium.com/@fikri.andrhm/bye-class-hello-hooks-belajar-react-lebih-clean-dan-modular-465db12945f5).
+
+Live Demo: [https://ptrove-v1.fyz.my.id/](https://ptrove-v1.fyz.my.id/)
