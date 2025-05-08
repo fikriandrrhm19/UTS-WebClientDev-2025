@@ -86,7 +86,7 @@ Pastikan Anda telah menginstal:
 - **calculateDateDifference**: Menghitung selisih hari antara dua tanggal.
 - **getInitials**: Mengekstrak inisial dari nama lengkap.
 
-### Organisasi Kode
+### Struktur Kode
 - Kode JavaScript disimpan di `src/js/`, kode TypeScript di `src/ts/`.
 - File `main.js` dan `main.ts` berfungsi sebagai entry point untuk menjalankan semua fungsi.
 - Setiap fungsi dipisahkan dalam file masing-masing untuk meningkatkan keterbacaan dan modularitas.

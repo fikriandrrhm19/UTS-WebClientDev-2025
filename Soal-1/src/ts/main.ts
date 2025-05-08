@@ -3,10 +3,7 @@ import { calculateCircleProperties } from './calculateCircleProperties';
 import { calculateTriangleAngle } from './calculateTriangleAngle';
 import { calculateDateDifference } from './calculateDateDifference';
 import { getInitials } from './getInitials';
-
-function printSeparator(length: number = 70, char: string = "="): void {
-    console.log("\n" + char.repeat(length) + "\n");
-}
+import { printSeparator } from './printSeparator';
 
 printSeparator();
 
