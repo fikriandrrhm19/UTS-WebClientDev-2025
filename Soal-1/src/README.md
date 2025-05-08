@@ -1,7 +1,7 @@
 # Soal 1 - Dasar JavaScript dan TypeScript
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dc6e4a65-183f-499d-88fc-51861f95142b" alt="soal-1" width="320">
+  <img src="https://github.com/user-attachments/assets/dc6e4a65-183f-499d-88fc-51861f95142b" alt="soal-1" width="640" height="auto">
 </p>
 
 ## Ringkasan Proyek
