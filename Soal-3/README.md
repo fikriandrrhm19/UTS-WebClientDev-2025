@@ -178,7 +178,8 @@ Berikut adalah langkah-langkah yang saya lakukan untuk menyelesaikan soal 3:
     - **≤480px**: Penyesuaian lebih lanjut untuk layar kecil, termasuk ukuran dekorasi.
 
     Hasilnya dapat dilihat pada video berikut:
-    <p align="center"> <img src="https://github.com/user-attachments/assets/ae539a77-0dd8-4e7f-9445-7162e9cc0b1f" alt="Tampilan Responsif" width="640" height="auto"> </p>
+   
+    https://github.com/user-attachments/assets/ae539a77-0dd8-4e7f-9445-7162e9cc0b1f
 
 ## Tantangan dan Solusi
 ### Tantangan yang Dihadapi
